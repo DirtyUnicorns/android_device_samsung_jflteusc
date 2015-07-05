@@ -1,2 +1,1 @@
-add_lunch_combo cm_jflteusc-eng
-
+add_lunch_combo du_jflteusc-userdebug
